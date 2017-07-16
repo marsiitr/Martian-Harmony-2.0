@@ -25,7 +25,7 @@ Flute Playing Bot is a robot which replicates the mechanism by which a human bei
    7. 1 Vacuum Cleaner- For blowing air in the Flute System.
    8. 12 V/5A Adapter- For power supply.
    9. Heat Sink
-## Importance of various components
+### Importance of various components
 1. **Servo Motors**:A servo motor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
 In Flute, the servo motors are used to rotate the sticks in order to open and close the holes for different chords.
 2. **Stepper Motor**:A stepper motor is a brushless electric DC motor that divides a full rotation into a number of equal steps. The motor's position can then be commanded to move and hold at one of these steps without any feedback sensor, as long as the motor is carefully sized to the application in respect to torque and speed.
