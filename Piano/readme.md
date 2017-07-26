@@ -1,4 +1,4 @@
-# Keyboard
+# Piano
 Piano Playing Bot is a robot which replicates the mechanism by which a human being plays piano. In this bot **3D printed** hand like structures are used to replicate the motion of human fingers over the keys of piano.**Solenoid valves** are used for the movement of fingers where as **Stepper motors** are used for motion of hand.
 ## Pre Requisites
 ### Softwares
