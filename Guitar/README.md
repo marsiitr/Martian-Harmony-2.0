@@ -68,8 +68,8 @@ Rear design is considered for fret selection.<br />
 3. Pipes<br />
 4. Actuators<br />
 
-## Result
-We are still working on improving the design of this project.
+## Inference
+We weren't completely successful with the current design so we are still working on improving the design of this project.
 
 
                                        
