@@ -36,6 +36,8 @@ It is used to control the pressure of air coming from vacuum cleaner blown into 
 Servo motors and  stepper motors are controlled using Arduino-MEGA 2560.
 The information of the different chords playing for different duration as well as which holes are to be opened to produce different chords or equivalently which servo motor is to be at which angle for particular duration is feed to Arduino.The vacuum cleaner supplies air to the flute with the help of two pipes with one pipe going to flute and another going to rack and pinion system. The pressure control information is taken manually by varying the scale mounted on rack and pinion system and the length of the scale at different chords (the steps required by stepper motor to reach that length) is also programmed. The wooden sticks with thermocol are mounted on servo motor such that the hole is completely covered. 
 When power is supplied, the arduino, with the help of the programmed code decides the position of servo motors as well as the stepper motor for different time intervals and produces the appropriate sound at appropriate time, thus playing the tone of a song with perfection.
-## Result 
+** Software related details can be found in Readme.md file in the parent folder. **
+## Inference
+We can play a number of different songs using the current design.
 _Enjoy the Melodious sounds._ 
    
