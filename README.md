@@ -1,11 +1,11 @@
 # Martian-Harmony-2.0
-Our idea was to build a robot that can play musical instruments in the same fashion as humans.
+THe idea was to build a robot that can play musical instruments in the same fashion as humans.
 Robotic band is basically aimed for designing a band that is completely automatic.It consists of various instruments like Flute, Keyboard, Guitar, etc. All these instruments are being played using different mechanisms.
 ## Team Members
 1. Shivam Maloo
 2. Shikhar Bhargava
-3. Pradhyuman Mathur
-4. Umesh Kumawat
+3. Umesh Kumawat
+4. Pradhyuman Mathur
 5. Iqbal Khan
 6. Moti lal
 7. Anant Vashistha
